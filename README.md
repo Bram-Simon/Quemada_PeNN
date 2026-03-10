@@ -1,2 +1,2 @@
 # Quemada_PeNN
-Reproducing results from PeNN article in Pytorch and developing a tutorial for the Food Data Science course
+Tutorial for Food Data Science (Wageningen University and Research 2026)
